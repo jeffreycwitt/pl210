@@ -6,8 +6,8 @@
     loader: 'akamai',
     path: './',
   },
-  assetPrefix: '/pl201/',
-  basePath: '/pl201',
+  assetPrefix: '/pl210/',
+  basePath: '/pl210',
 };
 
 export default   nextConfig;
